@@ -1,5 +1,4 @@
 # wine-or-whine
-Credit: @Siddhardhan on Youtube
 Overview
 
 This Jupyter notebook project predicts the quality of wine based on various chemical properties using machine learning techniques in Python.
@@ -12,7 +11,8 @@ Data exploration and visualization.
 Data preprocessing steps.
 Model training and evaluation.
 Prediction using the trained model.
-Dataset
+
+# Dataset
 
 The dataset used for this project is the "Wine Quality" dataset from the UCI Machine Learning Repository. It contains various attributes of wine such as acidity, pH, alcohol content, etc., along with a quality rating.
 
@@ -22,18 +22,9 @@ Dataset Source: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et
 Python (>=3.6)
 Jupyter Notebook
 Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
-Setup
+Setup: Google Colab 
+https://colab.research.google.com/drive/1B9uvg4YDhBatIK1olUNq2w6Yv3eBiAm1?authuser=0#scrollTo=buyO-9NlaLSS
 
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/wine-quality-prediction.git
-cd wine-quality-prediction
-Install dependencies:
-
-Copy code
-pip install -r requirements.txt
-Download the dataset:
 
 
